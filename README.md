@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science and Information Systems student at AUBG. I am currently working as a Software Developer at VERO Digital Solutions, primarily using Python and FastAPI to develop robust and scalable applications. I am passionate about full-stack web development, as well as AI and machine learning.
+I am a Computer Science and Information Systems student at AUBG. I am currently working as a Software Developer at VERO Digital Solutions, primarily using Python and FastAPI to develop robust and scalable applications. I am passionate about full-stack web development, as well as AI, machine learning, and data science.
 
 
 ## 🌐 Socials:
