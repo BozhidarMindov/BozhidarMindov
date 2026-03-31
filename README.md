@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Big Data Technologies student at Sofia University/Gate Institute. I am currently working as a Software Developer at VERO Digital Solutions, primarily using Python and FastAPI to develop robust and scalable applications. I am passionate about full-stack web development, as well as AI, machine learning, and data science.
-
+A software developer with 3.5+ years of experience building backend and full-stack applications, primarily using Python and FastAPI. I hold a Bachelor's degree in Computer Science and Information Systems from the American University in Bulgaria, and I am currently pursuing a Master's degree in Big Data Technologies at Sofia University / GATE Institute. I am passionate about full-stack web development, as well as AI, machine learning, and data science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bozhidar-mindov) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BozhidarMindov) 
